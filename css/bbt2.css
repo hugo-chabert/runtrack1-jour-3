@@ -1,0 +1,27 @@
+h1
+{
+    text-align: center;
+    color: white;
+    text-shadow: 0 0 40px white;
+    font-size: 400%;
+    font-family:fantasy;
+}
+body
+{
+    background-image:url(https://www.podcastjournal.net/photo/art/grande/56166697-41867881.jpg?v=1620576003)
+}
+h2
+{
+    border: 5px outset rgb(238, 234, 234);
+}
+h2
+{
+    text-align: center;
+    font-family: fantasy;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 40px white;
+}
+img:hover
+{
+    transform: scaleX(-1);
+}

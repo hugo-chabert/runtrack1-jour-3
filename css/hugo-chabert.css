@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(71, 71, 71);
+    background: url(https://images.pexels.com/photos/158163/clouds-cloudporn-weather-lookup-158163.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260) no-repeat;
+}
+
+.hugo{
+    font-family: arial, bold;
+    text-shadow: 0 0 5px purple;
+    font-size: xx-large;
+}
+
+.img2 {
+    border-radius: 10%;
+    width: 3%;
+    margin-left: 95%;
+        
+}
+
+.img {
+    border-radius: 10%;
+    width: 30%;
+    margin-left: 35%;       
+}
+
+
+div{
+    text-align: center;
+}
+
+.element2{
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    padding-left: 3%;
+}
+
+
+.element1{
+    border:3px solid black;
+    background-color: grey;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: verdana;
+}
+
+.info{
+    font-family: verdana;
+    border: 3px solid black;
+    margin-left: 30%;
+    margin-right: 30%;    
+    background-color: grey;
+    font-size: x-large;
+}
+
+.photo{
+    border: 5px solid black; 
+}
+
+
+
+
+
+  
+

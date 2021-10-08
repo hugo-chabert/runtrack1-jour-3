@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(138, 111, 138);
+}
+
+.droite{
+    display: flex;
+    flex-direction: column;
+    align-items:end;
+    width: 30%;
+}
+
+.gauche{
+    width: 70%;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.hugo{
+    font-family: arial;
+    border: solid black 3px;
+    width:95%;
+    text-align: center;
+    font-size: xx-large;
+    background-color: purple;
+
+}
+
+.photo{
+    border: solid black 3px;
+    width: 95%;
+    height: 95%;
+}
+
+.info{
+    border: solid black 3px;
+    width:95%;
+    font-family: arial;
+    text-align: center;
+    font-size: x-large;
+    background-color: purple;
+}
+
+.element1{
+    border: solid black 3px;
+    width: 95%;
+    height: 95%;
+    font-family: arial;
+    text-align: center;
+}
+
+.element1{
+    
+    width: 95%;
+    height: 95%;
+    font-family: arial;
+    text-align: center;
+}
+
+.img{
+    width: 7%;
+    margin-top: 1%;
+}
+
+.img2{
+    border: solid black 30px;
+    width:75%;
+}
+
+
+
+
+
+
+  
+
